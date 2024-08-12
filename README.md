@@ -9,7 +9,7 @@ Image Processing: My work in computer vision revolves around analyzing images an
 
 Model Compression: I am exploring methods to compress deep learning models for efficient deployment, aiming to reduce model size and computational costs without compromising performance.
 
-SoC Estimation Project: I worked on a project that leveraged deep learning models to estimate the performance and state of System on Chips (SoCs). This project aimed to develop a solution capable of accurately and in real-time predicting the state of SoCs using advanced deep learning techniques.
+State of Charge (SoC) Estimation Project: I worked on a project that utilized deep learning models to estimate the state of charge in batteries. This project aimed to develop a solution capable of accurately predicting battery health and performance in real-time using advanced deep learning techniques.
 
 With the knowledge and experience gained from these endeavors, I aim to contribute to the transformative impact of AI technology across various industries. I am excited to continue learning and tackling new challenges in the field.
 <!--
